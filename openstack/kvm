@@ -1,0 +1,6 @@
+Install kvm
+# sudo apt-get install qemu-kvm libvirt-bin virtinst bridge-utils cpu-checker
+Verify kvm installation
+# kvm-ok
+install virt manager
+# sudo apt-get install virt-manager
